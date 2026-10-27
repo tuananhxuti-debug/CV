@@ -164,4 +164,4 @@ Thông tin hiện được khai báo trong phần Liên hệ của `index.html`:
 - **GitHub mẫu:** `github.com/nguyenvanan`
 - **LinkedIn mẫu:** `linkedin.com/in/nguyenvanan`
 
-Hãy thay thông tin mẫu bằng địa chỉ liên hệ chính thức trước khi đưa website lên môi trường công khai.
+Hãy thay thông tin mẫu bằng địa chỉ liên hệ chính thức trước khi đưa website lên môi trường công khai.9
